@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*Place Header Styles Here*/
+/*Header Styles*/
 
 header {
     padding: 20px;
@@ -25,6 +25,8 @@ h1 {
 .seo {
     color: #d9dcd6;
 }
+
+/*Navbar Styles*/
 
 nav {
     padding-top: 15px;
@@ -45,7 +47,7 @@ a {
     text-decoration: none;
 }
 
-/*Place Image Styles Here*/
+/*divider image*/
 
 .hero {
     height: 800px;
@@ -56,7 +58,7 @@ a {
     background-position: center;
 }
 
-/*Place Body Styles Here*/
+/*Main Styles*/
 
 .float-left {
     float: left;
@@ -92,7 +94,7 @@ article h2 {
     font-size: 36px;
 }
 
-/*Place Aside Styles Here*/
+/*Benefit Styles*/
 
 .benefits {
     margin-right: 20px;
@@ -121,7 +123,7 @@ article h2 {
     max-width: 150px;
 }
 
-/*Place Footer Styles Here*/
+/*Footer Styles*/
 
 .footer {
     padding: 30px;
